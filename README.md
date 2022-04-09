@@ -5,7 +5,7 @@
 ### 📫 How to reach me: 
 
 - My home page [Hi Jazee](https://www.jmzzz.cn/)
-- Talk with me by [Telegram](https://t.me/Jazee6)
+- Talk with me by [Telegram](https://t.me/Jazee6/)
 
 <!--
 **Jazee6/Jazee6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
