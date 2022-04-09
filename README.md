@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jazee6&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jazee6&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=DEG,e1f5fe,e1bee7"/>
 
+### 📫 How to reach me: 
 
+- My home page [Hi Jazee](https://www.jmzzz.cn/)
+- Talk with me by [Telegram](https://t.me/Jazee6)
 
 <!--
 **Jazee6/Jazee6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
